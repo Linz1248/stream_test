@@ -1,0 +1,9 @@
+{
+  "name": "sse-mock",
+  "version": "1.0.0",
+  "description": "SSE Mock Server for streaming test",
+  "main": "api/stream.js",
+  "scripts": {
+    "start": "node api/stream.js"
+  }
+}
